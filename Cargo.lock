@@ -332,7 +332,7 @@ dependencies = [
 [[package]]
 name = "kyrios"
 version = "0.1.0"
-source = "git+https://github.com/Svenzor84/kyrios#236a0be52f711bd0cc5664d74514097989098be0"
+source = "git+https://github.com/Svenzor84/kyrios#ddf64cc77c15117778fa4d583cd384b610100ff8"
 dependencies = [
  "emscripten_main_loop",
  "sdl3",
