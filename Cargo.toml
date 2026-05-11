@@ -1,0 +1,14 @@
+[package]
+name = "kyrios-dice-roller"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# TODO: update this URL to your fork/branch once the build.rs fix is merged or forked
+kyrios = { git = "https://github.com/Svenzor84/kyrios" }
+# kyrios = { git = "https://github.com/ejthomas-code/kyrios" }
+rand = "0.8"
+slotmap = "1.0.7"
+
+[build-dependencies]
+zip = "2"
