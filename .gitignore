@@ -1,3 +1,15 @@
 /target
 /lib
 /sdl-zips
+/dist
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Log files (panic hook output)
+*.log
